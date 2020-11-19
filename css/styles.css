@@ -1,0 +1,144 @@
+
+body{
+  background-color: rgb(207, 207, 207);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 13px;
+  width: 1440px;
+}
+
+h4{
+  margin: 10px 20px;
+}
+
+p{
+margin: 0;
+
+
+
+}
+
+
+.main-container{
+  background-color: rgb(236, 242, 248);
+  margin: 100px auto;
+  position: relative;
+  height: 650px;
+  width: 1200px;
+
+}
+.verified{
+  opacity: 50%;
+}
+.container-1{
+  background-color: rgb(72, 85, 106);
+  border-radius: 5px;
+  color: rgb(236, 242, 248);
+  height: 210px;
+  width: 200px;
+  position: absolute;
+  right: 400px;
+  top:100px;
+}
+.jonathan{
+  float: left;
+  padding: 20px;
+  width: 14%;
+  padding-right: 10px;
+  padding-bottom: 0;
+}
+
+.container-2{
+  background-color: rgb(117, 65, 200);
+  border-radius: 5px;
+  color: rgb(236, 242, 248);
+  height: 210px;
+  width:440px;
+  position: absolute;
+  left: 135px;
+  top: 100px;
+
+
+word-wrap: break-word;
+
+}
+.daniel{
+  float: left;
+  padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  width: 7%;
+
+
+}
+.name{
+margin-top: 15px;
+
+
+}
+.verified{
+  margin: 0;
+}
+.testimonial{
+  margin: 10px 20px;
+
+  opacity: 50%;
+}
+.quote-image{
+  position: absolute;
+  right: 70px;
+  width: 14%;
+}
+.container-3{
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  height: 210px;
+  margin-top: 15px;
+  width: 200px;
+  position: absolute;
+  left: 135px;
+  top: 320px;
+
+}
+.jeanette{
+  float: left;
+  padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  width: 14%;
+}
+.container-4{
+  background-color: rgb(25, 33, 46);
+  color: rgb(236, 242, 248);
+  border-radius: 5px;
+  height: 210px;
+  margin-top: 15px;
+  width: 440px;
+  position: absolute;
+  right: 400px;
+  top: 320px;
+
+
+}
+.patrick{
+  float: left;
+  padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  width: 7%;
+}
+.container-5{
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  height: 445px;
+  width: 240px;
+  position: absolute;
+  right: 135px;
+  top: 100px;
+}
+.kira{
+  float: left;
+  padding: 20px;
+  padding-right: 10px;
+  padding-bottom: 0;
+  width: 14%;
+}
